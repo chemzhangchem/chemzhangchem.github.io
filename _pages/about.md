@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Towards Next-generation Synthesis"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
