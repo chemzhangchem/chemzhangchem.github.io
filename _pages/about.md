@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I define myself as a *provider of synthetic chemistry solutions rather* than a *traditional organic chemist*. My focus is solely on solving problems as efficiently as possible, free from the pretensions and purism often tied to disciplinary boundaries. Synthetic chemistry, as the science of creation, imposes no limits on the methods employed.
+As a *provider of synthetic chemistry solutions* rather than a *traditional organic chemist*, I solely focus on solving synthetic problems as efficiently as possible, free from the pretensions and purism often tied to disciplinary boundaries. Synthetic chemistry, as the science of creation, imposes no limits on the methods employed.
 
 ## About Me
 Welcome to my personal page! I'm Jingyang Zhang, a fourth-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC), specializing in organic synthesis. My research focuses on total synthesis of natural products, data-driven, HTE-based reaction discovery and computational chemistry.  
