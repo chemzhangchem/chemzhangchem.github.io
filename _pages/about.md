@@ -25,4 +25,4 @@ Currently, I am working at Rice University as a research assistant. I moved here
 2. **Reaction mining**: Development of a high-throughput experimental platform for reaction discovery.
 
 ## Contact
-Feel free to reach out to me via [email] (mailto:jz111@illinois.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingyangzhang-chem/). I always look forward to collaboration.
+Feel free to reach out to me via [email](mailto:jz111@illinois.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingyangzhang-chem/). I always look forward to collaboration.
