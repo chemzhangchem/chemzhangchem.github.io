@@ -27,5 +27,3 @@ Currently, I am working at Rice University as a research assistant.
 
 ## Contact
 Feel free to reach out to me via [email](jz111@illinois.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingyangzhang-chem/). I always look forward to academic collaboration.
-
-One day, people around the world will be able to communicate freely, and all the sciences, cultures, arts, and philosophies will converge once again, leading to the recreation of the towering pinnacle of knowledge.
