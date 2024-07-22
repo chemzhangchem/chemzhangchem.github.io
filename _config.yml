@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "JZ"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jingyang Zhang"
 description              : &description "personal description"
-url                      : https://chemzhangchem.github.io/
+url                      : https://chemzhangchem.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chemzhangchem/chemzhangchem.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Jingyang Zhang / 张旌扬"
   pronouns         : # example: "she/her"  
   bio              : "Accelerator"
-  location         : "Earth"
+  location         : "Houston, TX"
   employer         : "UIUC and Rice University"
   email            : "jz111@illinois.edu" 
 
