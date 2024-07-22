@@ -1,4 +1,11 @@
-## Welcome to My Personal Website
+---
+permalink: /
+title: "Welcome to My Personal Website"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Hello! I'm Jingyang Zhang, a fourth-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC), specializing in organic synthesis. My research focuses on total synthesis of natural products, HTE-based reaction discovery and computational chemistry. Currently, I am working at Rice University.
 
