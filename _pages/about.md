@@ -1,24 +1,27 @@
 ---
 permalink: /
-title: "Welcome to My Personal Website"
+title: "Towards Next-generation Synthsis"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I'm Jingyang Zhang, a fourth-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC), specializing in organic synthesis. My research focuses on total synthesis of natural products, HTE-based reaction discovery and computational chemistry. Currently, I am working at Rice University.
+Hello, welcome to my personal page. I'm Jingyang Zhang, a fourth-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC), specializing in organic synthesis. My research focuses on total synthesis of natural products, HTE-based reaction discovery and computational chemistry.  
+
+Currently, I am working at Rice University.
 
 Research Interests
 ======
-- **Total Synthesis**: Enantioselective syntheses of complex natural products.
-- **Reaction Discovery**: High-throughput experimental platform development for discovering new reactions.
-- **Computational Chemistry**: Utilizing computational techniques to predict and analyze chemical reactions and mechanisms.
+- **Total Synthesis**: The best training in organic chemistry and beyond.
+- **Reaction Discovery**: Development of the method of methods.
+- **Computational Chemistry**: Physical insights.
+- **AI & Data Science**: Now it's already 2024...
 
 Projects
 ======
 1. **Total syntheses and derivatization of sannamycin A and sannamycin B**: Enantioselective syntheses of 2-deoxy-fortamine-type aminoglycosides.
-2. **Reaction Mining**: Development of a high-throughput experimental platform for reaction discovery.
+2. **Reaction mining**: Development of a high-throughput experimental platform for reaction discovery.
 
 Contact
 ======
