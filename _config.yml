@@ -12,9 +12,9 @@ title                    : "JZ"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chemzhangchem.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "chemzhangchem/chemzhangchem.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jingyang Zhang / 张旌扬"
   pronouns         : # example: "she/her"  
-  bio              : "Molecular maker, reaction discoverer, data science player, Chinese diviner"
+  bio              : "Accelerator"
   location         : "Earth"
   employer         : "UIUC and Rice University"
   email            : "jz111@illinois.edu" 
