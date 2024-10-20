@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
         
-  - title: "Research Philosophy"
-    url: /year-archive/
+  #- title: "Research Philosophy"
+  #  url: /year-archive/
     
   - title: "CV"
     url: https://drive.google.com/file/d/1EtNkAWaS2r_74Z1hfaK7oGe-nvkaqxss/view?usp=drive_link
