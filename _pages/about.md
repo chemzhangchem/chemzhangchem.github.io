@@ -17,16 +17,17 @@ Welcome to my personal page! I'm Jingyang Zhang, a fourth-year Ph.D. student at 
 Currently, I am working at Rice University as a research assistant. I moved here together with my PI to complete the remaining part of my studies.
 
 ## Research Interests
-- **Total Synthesis**: The best training in organic chemistry and beyond.
-- **Reaction Discovery**: Development of the method of methods.
-- **Computational Chemistry**: Physical insights of organic chemistry transformations.
-- **AI & Data Science**: Now it's already 2024...
+- **Total Synthesis**
+- **HTE-based Reaction Discovery**
+- **Computational Chemistry**
+- **AI & Data Science**
 
 ## Projects (involvement indicated in parentheses)
 1. **Total syntheses and derivatization of sannamycin A and sannamycin B** (leader, synthesis and computational studies)
-2. **Reaction mining** (synthesis and coding)
-3. **Second-generation Reaction mining** (leader, synthesis, coding HTE design and data science studies)
+2. **The First-generation Reaction mining** (synthesis and coding)
+3. **The Second-generation Reaction mining** (leader, synthesis, coding HTE design and data science studies)
 4. **Total syntheses of nimbolide and related natural products** (computational studies)
+5. **Peptide staping** (computational studies)
 
 ## Contact
 Feel free to reach out to me via [email](mailto:jz111@illinois.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingyangzhang-chem/). I always look forward to collaboration.
