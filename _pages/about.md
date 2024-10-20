@@ -22,9 +22,11 @@ Currently, I am working at Rice University as a research assistant. I moved here
 - **Computational Chemistry**: Physical insights of organic chemistry transformations.
 - **AI & Data Science**: Now it's already 2024...
 
-## Projects
-1. **Total syntheses and derivatization of sannamycin A and sannamycin B**: Enantioselective syntheses of 2-deoxy-fortamine-type aminoglycosides.
-2. **Reaction mining**: Development of a high-throughput experimental platform for reaction discovery.
+## Projects (involvement indicated in parentheses)
+1. **Total syntheses and derivatization of sannamycin A and sannamycin B** (leader, synthesis and computational studies)
+2. **Reaction mining** (synthesis and coding)
+3. **Second-generation Reaction mining** (leader, synthesis, coding HTE design and data science studies)
+4. **Total syntheses of nimbolide and related natural products** (computational studies)
 
 ## Contact
 Feel free to reach out to me via [email](mailto:jz111@illinois.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/jingyangzhang-chem/). I always look forward to collaboration.
