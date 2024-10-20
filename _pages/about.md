@@ -6,15 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-As a *provider of synthetic chemistry solutions* rather than a *traditional organic chemist*, I solely focus on solving synthetic problems as efficiently as possible, free from the pretensions and purism often tied to disciplinary boundaries.
-
-Synthetic chemistry, as the science of creation, imposes no limits on the methods employed.
-
 ## About Me
 Welcome to my personal page! I'm Jingyang Zhang, a fourth-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC), specializing in organic synthesis. My research focuses on total synthesis of natural products, data-driven, HTE-based reaction discovery and computational chemistry.  
 
-Currently, I am working at Rice University as a research assistant. I moved here together with my PI to complete the remaining part of my studies.
+Currently, I am working at Rice University as a research assistant. I moved here together with my PI to complete the remaining part of my studies. After graduating with my PhD, I hope to work in the pharmaceutical industry. Having mastered, or at least understood, the power of chemical synthesis, biocatalysis, computational chemistry, HTE and data science, I want to know what new  insights the power of magnitude can bring me.
+
+I focus on solving chemistry problems as efficiently as possible, free from the pretensions and purism often tied to disciplinary boundaries.
 
 ## Research Interests
 - **Total Synthesis**
